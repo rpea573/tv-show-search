@@ -1,0 +1,18 @@
+.form-container {
+  margin: 1rem;
+}
+
+#tvShowList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.tvShowImage {
+  width: 20rem;
+  margin: 1rem;
+}
+
+.tvShowImage img {
+  width: 100%;
+}
